@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FaB74yUx+lpAxElf9b2uIhVZVvpXZ4MT40VdlivFzG6B2++UW0kCPpTSBeh1sTyp7OzDooPGrGNvaH3UEobDAA==",
+  "success": true,
+  "projectFilePath": "C:\\Icon H\\test\\RectangleProgramTest\\RectangleProgramTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\nunit3testadapter\\4.0.0\\nunit3testadapter.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
